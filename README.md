@@ -1,3 +1,3 @@
 # Ceva_Calculator
 
-o arq ceva_teste é a calculadora com a interface
+Calculadora de MCU (Malt Color Units) e conversão de unidades feita para a disciplina BIO12037 - Biotecnologia Apicada à Indústria Cervejeira. 
