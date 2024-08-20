@@ -4,3 +4,5 @@ Calculadora de MCU (Malt Color Units) e conversão de unidades feita para a disc
 
 BeerCalculator -> Calculadora sem interface gráfica, pode ser rodada diretamente no terminal. 
 
+BeerCalculator_GUI -> Calculadora com interface gráfica.
+
